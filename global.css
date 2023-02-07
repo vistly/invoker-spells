@@ -1,0 +1,13 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 80px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-chocolate: #d57c06;
+  --color-mediumslateblue: #365afa;
+  --color-indigo-100: #531674;
+}
